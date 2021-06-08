@@ -129,7 +129,6 @@ select {
     color: #eeeeee;
 }
 
-h1 {
-    font-size: 24px;
-    display: inline;
+h1 a {
+    color: #eeeeee;
 }
